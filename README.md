@@ -31,7 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh3202&show_icons=true&locale=en" alt="harsh3202" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh3202&" alt="harsh3202" /></p>
-  <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHAweWg0NWc4MDdpNG5lMWxhN3NlNDR5Nmdrc3FpdnNyaTlodWNheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bfPYlvbKB4Q1xCczLs/giphy.gif"  />
+  <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHAweWg0NWc4MDdpNG5lMWxhN3NlNDR5Nmdrc3FpdnNyaTlodWNheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bfPYlvbKB4Q1xCczLs/giphy.gif"  />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harsh3202/tobiasmeyhoefer/output/github-snake-dark.svg" />
