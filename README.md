@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Khaitan</h1>
 <h3 align="center">A machine learning and MLops enthusiasts Free feel to checkout my projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh3202&label=Profile%20views&color=0e75b6&style=flat" alt="harsh3202" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh3202" alt="harsh3202" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **DeepLearning,MLops,upskilling problem solving**
@@ -35,11 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh3202&show_icons=true&locale=en" alt="harsh3202" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh3202&" alt="harsh3202" /></p>
-
-<div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHAweWg0NWc4MDdpNG5lMWxhN3NlNDR5Nmdrc3FpdnNyaTlodWNheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bfPYlvbKB4Q1xCczLs/giphy.gif"  />
-</div>
-
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harsh3202/tobiasmeyhoefer/output/github-snake-dark.svg" />
