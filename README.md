@@ -31,7 +31,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh3202&show_icons=true&locale=en" alt="harsh3202" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh3202&" alt="harsh3202" /></p>
+<div align="right">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHAweWg0NWc4MDdpNG5lMWxhN3NlNDR5Nmdrc3FpdnNyaTlodWNheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bfPYlvbKB4Q1xCczLs/giphy.gif"  />
+</div>
+
+###
 
 ###
 ###
